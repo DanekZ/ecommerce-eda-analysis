@@ -56,7 +56,7 @@ See the notebook for the full set of charts, including:
 ```
 ecommerce-eda-analysis/
 ├── data/
-│   └── README.md          # dataset source & description
+│   └── eccomerce.csv          # dataset source & description
 ├── notebooks/
 │   └── eccomerce_analysis.ipynb
 ├── requirements.txt
